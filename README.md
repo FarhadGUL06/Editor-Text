@@ -1,5 +1,5 @@
-Gul Farhad Ali Irinel | Grupa 314CC
-Structuri de date - Tema 1
+Gul Farhad Ali Irinel
+Editor Text in C
 
 <=================================<STRUCTURI>=================================>
 In realizarea acestei teme am decis sa pun intr-un fisier separat numit
